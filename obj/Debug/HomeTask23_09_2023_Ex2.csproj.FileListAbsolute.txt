@@ -1,0 +1,7 @@
+C:\Users\stepa\RiderProjects\ConsoleApplication2\HomeTask23_09_2023_Ex2\bin\Debug\HomeTask23_09_2023_Ex2.exe
+C:\Users\stepa\RiderProjects\ConsoleApplication2\HomeTask23_09_2023_Ex2\bin\Debug\HomeTask23_09_2023_Ex2.pdb
+C:\Users\stepa\RiderProjects\ConsoleApplication2\HomeTask23_09_2023_Ex2\obj\Debug\HomeTask23_09_2023_Ex2.csproj.AssemblyReference.cache
+C:\Users\stepa\RiderProjects\ConsoleApplication2\HomeTask23_09_2023_Ex2\obj\Debug\HomeTask23_09_2023_Ex2.csproj.SuggestedBindingRedirects.cache
+C:\Users\stepa\RiderProjects\ConsoleApplication2\HomeTask23_09_2023_Ex2\obj\Debug\HomeTask23_09_2023_Ex2.csproj.CoreCompileInputs.cache
+C:\Users\stepa\RiderProjects\ConsoleApplication2\HomeTask23_09_2023_Ex2\obj\Debug\HomeTask23_09_2023_Ex2.exe
+C:\Users\stepa\RiderProjects\ConsoleApplication2\HomeTask23_09_2023_Ex2\obj\Debug\HomeTask23_09_2023_Ex2.pdb

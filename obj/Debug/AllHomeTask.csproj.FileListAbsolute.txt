@@ -1,0 +1,7 @@
+C:\Users\stepa\RiderProjects\ConsoleApplication2\AllHomeTask\bin\Debug\AllHomeTask.exe
+C:\Users\stepa\RiderProjects\ConsoleApplication2\AllHomeTask\bin\Debug\AllHomeTask.pdb
+C:\Users\stepa\RiderProjects\ConsoleApplication2\AllHomeTask\obj\Debug\AllHomeTask.csproj.AssemblyReference.cache
+C:\Users\stepa\RiderProjects\ConsoleApplication2\AllHomeTask\obj\Debug\AllHomeTask.csproj.SuggestedBindingRedirects.cache
+C:\Users\stepa\RiderProjects\ConsoleApplication2\AllHomeTask\obj\Debug\AllHomeTask.csproj.CoreCompileInputs.cache
+C:\Users\stepa\RiderProjects\ConsoleApplication2\AllHomeTask\obj\Debug\AllHomeTask.exe
+C:\Users\stepa\RiderProjects\ConsoleApplication2\AllHomeTask\obj\Debug\AllHomeTask.pdb
