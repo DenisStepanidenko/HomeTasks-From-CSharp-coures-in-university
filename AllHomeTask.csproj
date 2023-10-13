@@ -38,19 +38,28 @@
         <Reference Include="System.Xml" />
     </ItemGroup>
     <ItemGroup>
+        <Compile Include="CalculationPI.cs" />
         <Compile Include="ChangeDigits.cs" />
+        <Compile Include="FlagEnum.cs" />
         <Compile Include="MethodToChangeRef.cs" />
         <Compile Include="ExtensionMethods.cs" />
         <Compile Include="LongNumber.cs" />
         <Compile Include="Man.cs" />
         <Compile Include="Point.cs" />
+        <Compile Include="ShiftCount.cs" />
         <Compile Include="SquareAndPerimetr.cs" />
         <Compile Include="SummParams.cs" />
         <Compile Include="TestingProgramm.cs" />
         <Compile Include="Teenager.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
         <Compile Include="StringList.cs" />
+        <Compile Include="WeekDay.cs" />
         <Compile Include="Worker.cs" />
+        <Compile Include="WorkWithWeekDay.cs" />
+    </ItemGroup>
+    <ItemGroup>
+      <Content Include="Кратные Ряды.png" />
+      <Content Include="Формула Бэйли-Боруэйна-Плаффа.png" />
     </ItemGroup>
     <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
     <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
