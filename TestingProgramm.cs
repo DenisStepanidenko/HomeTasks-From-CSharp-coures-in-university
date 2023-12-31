@@ -1,9 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using HomeTask23_09_2023_Ex1;
-using System.Linq;
-using System.Runtime.InteropServices;
-using System.Security.AccessControl;
+﻿
+
+
+using HomeTask23_09_2023_Ex1.HomeWork6;
 
 namespace HomeTask29_09_2023
 {
@@ -57,9 +55,23 @@ namespace HomeTask29_09_2023
             //Console.WriteLine(test + );
             //CalculationPI.Input();
             //Console.WriteLine(Char.isC);
-            char test = 'Z';
-            bool flag = ShiftCount.Shift(53, ref test);
-            Console.WriteLine(test);
+            //char test = 'Z';
+            //bool flag = ShiftCount.Shift(53, ref test);
+            //Console.WriteLine(test);
+            //GetRandomValues.GetValues();
+            //int[] arr = new[] { 1,2,3,4,5,6,7};
+            //WorkWithArray.ShowElementAfterOne(arr);
+            
+            //Solution.First();
+            //var arr = new[] {1, 2, 3, 4};
+            //Second.ReverseArr(arr);
+            //SecondHomeWork6.Even(arr);
+            var arr = new int[2, 2];
+            arr[0, 0] = 1;
+            arr[0, 1] = 2;
+            arr[1, 0] = 2;
+            arr[1, 1] = 2;
+            FourthHomeWork6.FindSumOfRowWhereMinElementExist(arr);
         }
         
         

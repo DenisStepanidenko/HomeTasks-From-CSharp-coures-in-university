@@ -10,6 +10,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/105da1159ec9496ab9310694c7b11dd2532bb0/93/e96aff59/EventHandler.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="ProjectId" id="2WR7lPTGjeqsbQgXlkmos6Vx5hM" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -19,6 +22,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.environmentSetup" />
   </component>
   <component name="RunManager" selected=".NET Project.AllHomeTask">
     <configuration name="AllHomeTask" type="DotNetProject" factoryName=".NET Project">
@@ -76,11 +80,23 @@
       <workItem from="1696944002610" duration="2453000" />
       <workItem from="1697016646434" duration="192000" />
       <workItem from="1697117104977" duration="2766000" />
-      <workItem from="1697185613490" duration="1459000" />
+      <workItem from="1697185613490" duration="9101000" />
+      <workItem from="1697269835695" duration="1217000" />
+      <workItem from="1697720498884" duration="34000" />
+      <workItem from="1697720819673" duration="1782000" />
+      <workItem from="1700145083970" duration="2825000" />
+      <workItem from="1703313499678" duration="559000" />
+      <workItem from="1703870167525" duration="5403000" />
+      <workItem from="1703952461784" duration="1598000" />
+      <workItem from="1704027501928" duration="1525000" />
     </task>
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

@@ -11,6 +11,7 @@
         <AssemblyName>AllHomeTask</AssemblyName>
         <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
         <FileAlignment>512</FileAlignment>
+        <LangVersion>10</LangVersion>
     </PropertyGroup>
     <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
         <PlatformTarget>AnyCPU</PlatformTarget>
@@ -41,6 +42,10 @@
         <Compile Include="CalculationPI.cs" />
         <Compile Include="ChangeDigits.cs" />
         <Compile Include="FlagEnum.cs" />
+        <Compile Include="GetRandomValues.cs" />
+        <Compile Include="HomeWork6\FirstHomeWork6.cs" />
+        <Compile Include="HomeWork6\FourthHomeWork6.cs" />
+        <Compile Include="HomeWork6\SecondHomeWork6.cs" />
         <Compile Include="MethodToChangeRef.cs" />
         <Compile Include="ExtensionMethods.cs" />
         <Compile Include="LongNumber.cs" />
@@ -55,7 +60,6 @@
         <Compile Include="StringList.cs" />
         <Compile Include="WeekDay.cs" />
         <Compile Include="Worker.cs" />
-        <Compile Include="WorkWithWeekDay.cs" />
     </ItemGroup>
     <ItemGroup>
       <Content Include="Кратные Ряды.png" />
